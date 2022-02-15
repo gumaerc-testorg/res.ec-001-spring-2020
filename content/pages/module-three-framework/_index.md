@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
 uid: 7eac5c4b-32a0-928c-eec9-3df651769dd0
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Module 4: Case Studies with Data '
 uid: cce773cc-98d0-45b1-b181-83c340d2d168
 ---

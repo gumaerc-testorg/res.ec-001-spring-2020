@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/77bc776713bc03164a4a272b9fe65ca1_MITRES_EC001S19_video6.pdf
+file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/77bc776713bc03164a4a272b9fe65ca1_MITRES_EC001S19_video6.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Fairness Criteria
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: RES.EC-001 Exploring Fairness in Machine Learning, Protected Attributes and
   "Fairness through Unawareness"

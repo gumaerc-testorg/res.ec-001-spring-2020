@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/f002b01dddf85224b0f047da2be6beaa_6EPDzvUNCd0.vtt
+file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/f002b01dddf85224b0f047da2be6beaa_6EPDzvUNCd0.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: f002b01d-ddf8-5224-b0f0-47da2be6beaa

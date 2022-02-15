@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Module 2: Examples of Ethical Challenges in Machine Learning'
 uid: e5c9ce69-6e54-9096-c82b-62631a8b712b
 ---

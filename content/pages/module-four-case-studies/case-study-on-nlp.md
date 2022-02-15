@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Module 4: Case Studies with Data '
+parent_type: SupplementalResourceSection
 parent_uid: cce773cc-98d0-45b1-b181-83c340d2d168
 title: 'Case Study on Natural Language Processing: Identifying and Mitigating Unintended
   Demographic Bias in Machine Learning for NLP'

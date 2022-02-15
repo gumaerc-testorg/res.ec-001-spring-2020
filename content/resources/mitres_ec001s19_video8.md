@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/ef1f0f4e41f6946d7ecccb644cdc6ff4_MITRES_EC001S19_video8.pdf
+file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/ef1f0f4e41f6946d7ecccb644cdc6ff4_MITRES_EC001S19_video8.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Case Study on Pulmonary Health
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'RES.EC-001 Exploring Fairness in Machine Learning, Pulmonary Health Case Study:
   Bias Exploration'
