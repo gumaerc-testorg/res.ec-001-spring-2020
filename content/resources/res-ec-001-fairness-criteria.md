@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Fairness Criteria
 parent_type: SupplementalResourceSection
+parent_uid: 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4
 resourcetype: Image
 title: RES-EC-001-fairness-criteria.png
 uid: 0c7e28dc-ce51-9751-84a1-a8a75cca039a

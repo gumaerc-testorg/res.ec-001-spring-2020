@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Case Study: Identifying and Mitigating Unintended Demographic Bias in Machine
   Learning for NLP'
 uid: 6a6f26ec-2dbe-fbe1-eb28-dd1cd1f51729

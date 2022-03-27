@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Study on Pulmonary Health
 parent_type: SupplementalResourceSection
+parent_uid: e927237f-0504-d17b-16db-1e7afce2a68e
 resourcetype: Document
 title: 'RES.EC-001 Exploring Fairness in Machine Learning, Pulmonary Health Case Study:
   Bias Exploration'

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Case Study on Pulmonary Health
 parent_type: SupplementalResourceSection
+parent_uid: e927237f-0504-d17b-16db-1e7afce2a68e
 resourcetype: Image
 title: RES-EC-001-pulmonary2.png
 uid: 9458205b-359c-e582-a697-6cbf2e4a6730

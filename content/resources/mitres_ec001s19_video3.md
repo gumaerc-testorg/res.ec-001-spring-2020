@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: USAID Appropriate Use Framework
 parent_type: SupplementalResourceSection
+parent_uid: d051f181-6b62-707c-174c-9cd67708fc30
 resourcetype: Document
 title: 'RES.EC-001 Exploring Fairness in Machine Learning, USAID Appropriate Use Framework '
 uid: e248296b-970c-5297-ff0f-a3cb0b6533cb

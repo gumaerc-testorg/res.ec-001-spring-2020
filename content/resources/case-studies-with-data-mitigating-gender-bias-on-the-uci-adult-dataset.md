@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Case Studies with Data: Mitigating Gender Bias on the UCI Adult Dataset'
 uid: ecae2209-dbfe-5a21-8318-e3e9bd69c04b
 video_files:

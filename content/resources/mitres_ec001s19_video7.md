@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Case Study with Data: Mitigating Gender Bias on the UCI Adult Database'
 parent_type: SupplementalResourceSection
+parent_uid: 3ee1ee69-1813-a435-6d18-22d90b24e11c
 resourcetype: Document
 title: 'RES.EC-001 Exploring Fairness in Machine Learning, Case Studies with Data:
   Mitigating Gender Bias on the UCI Adult Database'

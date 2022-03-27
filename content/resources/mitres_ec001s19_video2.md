@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Background
 parent_type: SupplementalResourceSection
+parent_uid: 7ae79e54-28df-63c2-7532-f44ff913ca8f
 resourcetype: Document
 title: RES.EC-001 Exploring Fairness in Machine Learning, Background
 uid: 2abe3297-32c6-d390-dec9-e90426080ab3

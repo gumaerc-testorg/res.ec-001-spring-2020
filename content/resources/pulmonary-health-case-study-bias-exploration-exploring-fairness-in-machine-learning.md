@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Pulmonary Health Case Study: Bias Exploration, Exploring Fairness in Machine
   Learning'
 uid: ab435707-e25f-05ac-501b-e0387c6677a1

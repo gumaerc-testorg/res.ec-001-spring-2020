@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Solar Lighting Example
 parent_type: SupplementalResourceSection
+parent_uid: 81e0b58f-33da-44c7-27c4-e0d948632623
 resourcetype: Document
 title: RES.EC-001 Exploring Fairness in Machine Learning, Solar Lighting Example
 uid: 07f25eb4-6f4c-25f2-35ec-1fc766516b38

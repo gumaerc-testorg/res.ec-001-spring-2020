@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Case Study with Data: Mitigating Gender Bias on the UCI Adult Database'
 parent_type: SupplementalResourceSection
+parent_uid: 3ee1ee69-1813-a435-6d18-22d90b24e11c
 resourcetype: Image
 title: RES-EC-001-gender-6.png
 uid: 476c520a-369e-7b57-097b-17393fc150ca

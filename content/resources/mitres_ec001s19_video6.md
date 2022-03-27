@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Fairness Criteria
 parent_type: SupplementalResourceSection
+parent_uid: 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4
 resourcetype: Document
 title: RES.EC-001 Exploring Fairness in Machine Learning, Protected Attributes and
   "Fairness through Unawareness"
