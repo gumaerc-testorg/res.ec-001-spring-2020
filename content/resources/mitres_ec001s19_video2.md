@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/2abe329732c6d390dec9e90426080ab3_MITRES_EC001S19_video2.pdf
+file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/2abe329732c6d390dec9e90426080ab3_MITRES_EC001S19_video2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Background
 parent_type: SupplementalResourceSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/4f262ef0f2e28d354df9d342fb208acc_hvcYz4yzS0w.pdf
+file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/4f262ef0f2e28d354df9d342fb208acc_hvcYz4yzS0w.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

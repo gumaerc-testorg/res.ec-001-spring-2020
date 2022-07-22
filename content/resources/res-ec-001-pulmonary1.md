@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/9d6be4384779f0f744a2b50d3ca6ca79_RES-EC-001-pulmonary1.png
+file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/9d6be4384779f0f744a2b50d3ca6ca79_RES-EC-001-pulmonary1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Case Study on Pulmonary Health
 parent_type: SupplementalResourceSection

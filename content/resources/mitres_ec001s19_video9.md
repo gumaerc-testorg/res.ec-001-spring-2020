@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/8aeca3c211f1f9b0cb09e18f4dbd2778_MITRES_EC001S19_video9.pdf
+file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/8aeca3c211f1f9b0cb09e18f4dbd2778_MITRES_EC001S19_video9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Case Study on Natural Language Processing: Identifying and Mitigating
   Unintended Demographic Bias in Machine Learning for NLP'
