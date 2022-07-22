@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
+parent_type: SupplementalResourceSection
 parent_uid: 7eac5c4b-32a0-928c-eec9-3df651769dd0
 title: Fairness Criteria
 uid: 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4

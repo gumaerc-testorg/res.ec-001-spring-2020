@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Module 4: Case Studies with Data '
+parent_type: SupplementalResourceSection
 parent_uid: cce773cc-98d0-45b1-b181-83c340d2d168
 title: 'Case Study with Data: Mitigating Gender Bias on the UCI Adult Database'
 uid: 3ee1ee69-1813-a435-6d18-22d90b24e11c
@@ -42,7 +45,7 @@ Binary coding was chosen for simplicity, but this decision must be made on a cas
 
 ### Illustrating gender bias
 
-We apply the standard ML approach to the UCI adult dataset. The steps that are followed are 1) splitting the dataset into training and test data, 2) selecting model (MLPClassifier in this case), 3) fitting the model on training data, and 4) using the model to make predictions on test data. For this application, we will define the positive category to mean high income (>$50K/year) and the negative category to mean low income (<=$50K/year).
+We apply the standard ML approach to the UCI adult dataset. The steps that are followed are 1) splitting the dataset into training and test data, 2) selecting model (MLPClassifier in this case), 3) fitting the model on training data, and 4) using the model to make predictions on test data. For this application, we will define the positive category to mean high income (>$50K/year) and the negative category to mean low income (\<=$50K/year).
 
 The model results show that the positive rates and true positive rates are higher for the male demographic. Additionally, the negative rate and true negative rates are higher for the female demographic. This shows consistent disparities in the error rates between the two demographics, which we will define as gender bias.
 
@@ -54,7 +57,7 @@ Debiasing by unawareness: we drop the gender attribute from the model so that th
 
 Equalizing the number of data points: we attempt different approaches to equalizing the representation. The different equalization criteria are #male = #female, #high income male = #high income female, #high income male/#low income male = #high income female/#low income female. One of the disadvantages of equalizing the number of data points is that the dataset size is limited by the size of the smallest demographic. Equalizing the ratio can overcome this limitation.
 
-Augment data with counterfactuals: for each data point Xi with a given gender, we generate a new data point Yi that only differs with Xi at the gender attribute and add it to our dataset. The gaps between male and female demographics are significantly reduced through this approach.
+Augment data with counterfactuals: for each data point X{{< sub "i" >}} with a given gender, we generate a new data point Y{{< sub "i" >}} that only differs with X{{< sub "i" >}} at the gender attribute and add it to our dataset. The gaps between male and female demographics are significantly reduced through this approach.
 
 We see varying accuracy across different approaches on accuracy for the male and female demographics, as shown in the plot below. The counterfactual approach is shown to be the best at reducing gender bias. We see similar behavior for the positive rates and negative rates as well as the true positive and true negative rates.
 

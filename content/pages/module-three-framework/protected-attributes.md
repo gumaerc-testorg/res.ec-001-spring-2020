@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
+parent_type: SupplementalResourceSection
 parent_uid: 7eac5c4b-32a0-928c-eec9-3df651769dd0
 title: Protected Attributes and "Fairness through Unawareness"
 uid: 8d5b79a6-d48a-bb89-18c0-258cee333d68

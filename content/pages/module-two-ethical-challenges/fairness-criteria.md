@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Module 2: Examples of Ethical Challenges in Machine Learning'
+parent_type: SupplementalResourceSection
 parent_uid: e5c9ce69-6e54-9096-c82b-62631a8b712b
 title: USAID Appropriate Use Framework
 uid: d051f181-6b62-707c-174c-9cd67708fc30

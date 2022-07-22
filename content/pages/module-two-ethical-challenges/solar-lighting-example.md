@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Module 2: Examples of Ethical Challenges in Machine Learning'
+parent_type: SupplementalResourceSection
 parent_uid: e5c9ce69-6e54-9096-c82b-62631a8b712b
 title: Solar Lighting Example
 uid: 81e0b58f-33da-44c7-27c4-e0d948632623

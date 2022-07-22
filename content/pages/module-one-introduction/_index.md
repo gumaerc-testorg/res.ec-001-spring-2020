@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Module 1: Introduction to Ethics in Machine Learning'
 uid: 9e86cc48-2107-c660-2b49-d87f9ad5b58f
 ---
