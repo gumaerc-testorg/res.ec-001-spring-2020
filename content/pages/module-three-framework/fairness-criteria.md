@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Video, learning objectives, discussion questions, and references on fairness
+  criteria.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
@@ -11,7 +13,7 @@ uid: 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4
 
 {{< resource b27a4187-a36c-d5d8-a748-30e44b38730b >}}
 
-[Fairness Criteria slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mitres_ec001s19_video5)
+{{% resource_link ecb246a7-a9dc-4bf1-4ad8-f81619f60689 "Fairness Criteria slides (PDF - 1.5MB)" %}}
 
 Learning Objectives
 -------------------
@@ -26,7 +28,7 @@ Content
 
 In the case of a binary classification (for example, whether or not to hire someone), you can categorize values in four categories. TP = true positive (correctly classified as positive). TN = true negative (correctly classified as negative). FP = false positive (incorrectly classified as positive). FN = false negative (incorrectly classified as negative).
 
-![Four square chart of actual vs predicted results.]({{< resource_file 0c7e28dc-ce51-9751-84a1-a8a75cca039a >}})
+{{< resource 0c7e28dc-ce51-9751-84a1-a8a75cca039a >}}
 
 ### Demographic parity
 
