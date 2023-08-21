@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains notes and videos for module 3 on the pedagogical framework
+  for addressing ethical challenges.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
@@ -18,5 +20,5 @@ Objectives
 Sections
 --------
 
-*   [Protected Attributes and "Fairness through Unawareness"]({{< baseurl >}}/pages/module-three-framework/protected-attributes)
-*   [Fairness Criteria]({{< baseurl >}}/pages/module-three-framework/fairness-criteria)
+*   {{% resource_link 8d5b79a6-d48a-bb89-18c0-258cee333d68 "Protected Attributes and \"Fairness through Unawareness\"" %}}
+*   {{% resource_link 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4 "Fairness Criteria" %}}

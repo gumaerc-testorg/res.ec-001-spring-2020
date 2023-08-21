@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Video, learning objectives, and key concepts on a case study of demographic
+  bias in natural language processing
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 4: Case Studies with Data '
@@ -12,7 +14,7 @@ uid: a5c725d2-f880-55c1-2a5d-bcda24b3db0b
 
 {{< resource 6a6f26ec-2dbe-fbe1-eb28-dd1cd1f51729 >}}
 
-[Case Study on Natural Language Processing: Identifying and Mitigating Unintended Demographic Bias in Machine Learning for NLP slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mitres_ec001s19_video9)
+{{% resource_link 8aeca3c2-11f1-f9b0-cb09-e18f4dbd2778 "Case Study on Natural Language Processing: Identifying and Mitigating Unintended Demographic Bias in Machine Learning for NLP slides (PDF - 1.3MB)" %}}
 
 Learning Objectives
 -------------------

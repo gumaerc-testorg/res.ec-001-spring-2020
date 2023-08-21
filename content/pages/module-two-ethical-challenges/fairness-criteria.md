@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Video, learning objectives, discussion questions, and references on the
+  USAID appropriate use framework.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 2: Examples of Ethical Challenges in Machine Learning'
@@ -11,7 +13,7 @@ uid: d051f181-6b62-707c-174c-9cd67708fc30
 
 {{< resource 59b64625-685b-93ef-caf6-4288389e4c1c >}}
 
-[USAID Appropriate Use Framework slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mitres_ec001s19_video3)
+{{% resource_link e248296b-970c-5297-ff0f-a3cb0b6533cb "USAID Appropriate Use Framework slides (PDF - 2.1MB)" %}}
 
 Learning Objectives
 -------------------
@@ -85,4 +87,4 @@ Contributions
 
 Content presented by Amit Gandhi (MIT).
 
-The guiding principles presented in this section were developed by Amy Paul, Craig Jolley, and Aubra Anthony of the Strategy & Research team within the Center for Digital Development at USAID. See their ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[USAID report (PDF - 4.7MB)](https://www.usaid.gov/sites/default/files/documents/15396/AI-ML-in-Development.pdf).
+The guiding principles presented in this section were developed by Amy Paul, Craig Jolley, and Aubra Anthony of the Strategy & Research team within the Center for Digital Development at USAID. See their [USAID report (PDF - 4.7MB)](https://www.usaid.gov/sites/default/files/documents/15396/AI-ML-in-Development.pdf).

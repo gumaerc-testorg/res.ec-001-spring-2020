@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Notes and videos for module two on examples of ethical challenges in
+  machine learning. '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Module 2: Examples of Ethical Challenges in Machine Learning'
@@ -17,5 +19,5 @@ Objectives
 Sections
 --------
 
-*   [USAID Appropriate Use Framework]({{< baseurl >}}/pages/module-two-ethical-challenges/fairness-criteria)
-*   [Solar Lighting Example]({{< baseurl >}}/pages/module-two-ethical-challenges/solar-lighting-example)
+*   {{% resource_link d051f181-6b62-707c-174c-9cd67708fc30 "USAID Appropriate Use Framework" %}}
+*   {{% resource_link 81e0b58f-33da-44c7-27c4-e0d948632623 "Solar Lighting Example" %}}

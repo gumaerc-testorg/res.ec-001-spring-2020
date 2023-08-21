@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Video, learning objectives, discussion questions, and references on protected
+  attributes and the idea of "fairness through unawareness."
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
@@ -11,7 +13,7 @@ uid: 8d5b79a6-d48a-bb89-18c0-258cee333d68
 
 {{< resource bc812e8f-9544-c930-3c0f-a26df0624aa4 >}}
 
-[Protected Attributes and "Fairness through Unawareness" slides (PDF)]({{< baseurl >}}/resources/mitres_ec001s19_video6)
+{{% resource_link 77bc7767-13bc-0316-4a4a-272b9fe65ca1 "Protected Attributes and \"Fairness through Unawareness\" slides (PDF)" %}}
 
 Learning Objectives
 -------------------

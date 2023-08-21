@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Video, learning objectives, discussion questions, and references on the
+  background of the course.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 1: Introduction to Ethics in Machine Learning'
@@ -11,7 +13,7 @@ uid: 7ae79e54-28df-63c2-7532-f44ff913ca8f
 
 {{< resource 50b5f31a-232d-e805-07e2-e359a871df64 >}}
 
-[Background slides (PDF - 4MB)]({{< baseurl >}}/resources/mitres_ec001s19_video2)
+{{% resource_link 2abe3297-32c6-d390-dec9-e90426080ab3 "Background slides (PDF - 4MB)" %}}
 
 Learning Objectives
 -------------------
