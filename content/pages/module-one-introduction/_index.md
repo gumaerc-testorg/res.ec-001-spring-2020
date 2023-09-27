@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Videos and notes for the introduction to ethics and machine learning.
+  Provides a high-level overview of ML in international development, ethical challenges,
+  and a framework for thinking about these issues. '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Module 1: Introduction to Ethics in Machine Learning'
@@ -21,4 +24,4 @@ Objectives
 Sections
 --------
 
-*   [Background]({{< baseurl >}}/pages/module-one-introduction/background)
+*   {{% resource_link 7ae79e54-28df-63c2-7532-f44ff913ca8f "Background" %}}

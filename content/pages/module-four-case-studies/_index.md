@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains notes and videos for module four on case studies and their
+  data.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Module 4: Case Studies with Data '
@@ -16,6 +18,6 @@ Objectives
 Sections
 --------
 
-*   [Case Study with Data: Mitigating Gender Bias on the UCI Adult Database]({{< baseurl >}}/pages/module-four-case-studies/case-study-mitigating-gender-bias)
-*   [Case Study on Pulmonary Health]({{< baseurl >}}/pages/module-four-case-studies/case-study-on-pulmonary-health)
-*   [Case Study on Natural Language Processing: Identifying and Mitigating Unintended Demographic Bias in Machine Learning for NLP]({{< baseurl >}}/pages/module-four-case-studies/case-study-on-nlp)
+*   {{% resource_link 3ee1ee69-1813-a435-6d18-22d90b24e11c "Case Study with Data: Mitigating Gender Bias on the UCI Adult Database" %}}
+*   {{% resource_link e927237f-0504-d17b-16db-1e7afce2a68e "Case Study on Pulmonary Health" %}}
+*   {{% resource_link a5c725d2-f880-55c1-2a5d-bcda24b3db0b "Case Study on Natural Language Processing: Identifying and Mitigating Unintended Demographic Bias in Machine Learning for NLP" %}}
