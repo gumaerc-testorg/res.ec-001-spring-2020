@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/c8056edc05e668b70ad91359bee02b74_zrB6pocJSI8.pdf
+file_size: 28106
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
