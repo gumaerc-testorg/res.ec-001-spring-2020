@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/0c7e28dcce51975184a1a8a75cca039a_RES-EC-001-fairness-criteria.png
+file_size: 25762
 file_type: image/png
 image_metadata:
   caption: ''
