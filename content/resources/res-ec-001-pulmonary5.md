@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/b32fee0c85808c6e7fecc52fae12bd10_RES-EC-001-pulmonary5.png
+file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/b32fee0c85808c6e7fecc52fae12bd10_RES-EC-001-pulmonary5.png
 file_size: 24109
 file_type: image/png
 image_metadata:
