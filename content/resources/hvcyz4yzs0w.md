@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/202458b0164f299110785b1ca7533461_hvcYz4yzS0w.srt
+file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/202458b0164f299110785b1ca7533461_hvcYz4yzS0w.srt
 file_size: 2253
 file_type: application/x-subrip
 learning_resource_types: []
