@@ -32,9 +32,9 @@ Disparate treatment is when you are disproportionately favoring a particular pro
 
 ### Examples of relevant unfairness
 
-*   {{% resource_link "3c0d1f6a-487a-4723-8478-106f33953575" "Amazon example" %}}: Amazon implemented a machine learning algorithm to screen resumes for hiring. Despite having gender as a predicted attribute, the algorithm discriminated against women. 
-*   {{% resource_link "c71ec4c7-5866-406f-888e-912cc4a81612" "Recidivism example" %}}: Machine learning is being used in the criminal justice system to look at recidivism, the risk of a criminal reoffending after being released. This system has been shown to be potentially discriminatory across race and gender. 
-*   {{% resource_link "838e0802-ed8f-487e-88e0-c7627861f772" "Facebook example" %}}: Facebook was found to be discriminating by allowing advertisers to restrict who could see ads based on characteristics like race, religion, and national origin. 
+*   [Amazon example](https://fortune.com/2018/10/10/amazon-ai-recruitment-bias-women-sexist/): Amazon implemented a machine learning algorithm to screen resumes for hiring. Despite having gender as a predicted attribute, the algorithm discriminated against women. 
+*   [Recidivism example](https://www.technologyreview.com/s/612775/algorithms-criminal-justice-ai/): Machine learning is being used in the criminal justice system to look at recidivism, the risk of a criminal reoffending after being released. This system has been shown to be potentially discriminatory across race and gender. 
+*   [Facebook example](https://www.nytimes.com/2019/03/28/us/politics/facebook-housing-discrimination.html): Facebook was found to be discriminating by allowing advertisers to restrict who could see ads based on characteristics like race, religion, and national origin. 
 
 ### Protected attributes
 
