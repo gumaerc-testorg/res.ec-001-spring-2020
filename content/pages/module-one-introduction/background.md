@@ -46,9 +46,9 @@ Discussion Questions
 References
 ----------
 
-"{{% resource_link "c5cf90fb-75f8-4bb1-995e-9e0a44ed85bc" "ACM conference on Fairness, Accountability, and Transparency (ACM FAccT\*)" %}}." ACM FAccT\* Conference, 24 Oct 2019.
+"[ACM conference on Fairness, Accountability, and Transparency (ACM FAccT\*)](https://fatconference.org/)." ACM FAccT\* Conference, 24 Oct 2019.
 
-"{{% resource_link "3eb1aa42-8359-4867-811f-0e26dc0e85e9" "AI Now: A research institute examining the social implications of artificial intelligence" %}}." AI Now Institute.
+"[AI Now: A research institute examining the social implications of artificial intelligence](https://ainowinstitute.org/)." AI Now Institute.
 
 Contributions
 -------------
